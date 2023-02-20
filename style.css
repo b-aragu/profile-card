@@ -2,8 +2,9 @@
 
 body {
   font-family: "Patrick Hand", cursive;
-  overflow: hidden;
+  overflow-x: hidden;
   font-size: 17px;
+  padding-bottom: 50px;
 }
 
 *,
